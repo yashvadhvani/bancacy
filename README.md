@@ -1,2 +1,0 @@
-# bancacy
-CRUD for React

@@ -1,0 +1,5 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const REGISTRATION_DONE = "REGISTRATION_DONE";
+export const UPDATION_DONE = "UPDATION_DONE";
+export const DELETION_DONE = "DELETION_DONE";
+export const VIEW_DONE = "VIEW_DONE";
